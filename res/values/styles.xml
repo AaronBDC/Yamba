@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <style name="edit_text_style" parent="android:Widget.Holo.Light.EditText">
+        <item name="android:background">#cfff</item>
+        <item name="android:ems">10</item>
+        <item name="android:inputType">textMultiLine</item>
+    </style>
+</resources>
